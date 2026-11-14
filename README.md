@@ -1,4 +1,4 @@
-LISENCE
+LICENSE
 
 SDL3
 SDL3_image
