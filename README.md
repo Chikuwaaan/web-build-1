@@ -1,8 +1,16 @@
 LICENSE
 
 SDL3
-SDL3_image
-SDL3_mixer
+ License: zlib License
 
-All libraries are distributed under
-the zlib license.
+SDL3_image
+ License: zlib License
+ 
+SDL3_mixer
+ License: zlib License
+
+SDL3_ttf
+ License: zlib License
+
+FreeType
+ License: FreeType License (FTL)
